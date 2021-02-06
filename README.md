@@ -1,3 +1,3 @@
 # CAA
-Code Authorship Attribution
-Data Mining Project
+- Code Authorship Attribution
+- Data Mining Project
